@@ -1,0 +1,6 @@
+---
+name: BossBarCompass
+version: 0.0.1
+main: tatchan\BossBarCompass\Main
+api: 3.22.0
+...
